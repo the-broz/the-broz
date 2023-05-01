@@ -1,2 +1,2 @@
-[![the-broz's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-broz)]()
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmental&theme=dark" alt="cosmental" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-broz" alt="the-broz" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-broz&theme=dark" alt="the-broz" />
